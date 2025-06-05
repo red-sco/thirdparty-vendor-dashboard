@@ -1,0 +1,70 @@
+# WordPress specific
+wp-config.php
+wp-content/uploads/
+wp-content/blogs.dir/
+wp-content/upgrade/
+wp-content/backup-db/
+sitemap.xml
+sitemap.xml.gz
+*.log
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-content/cache/
+wp-content/backups/ # Common backup plugin directory
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+nbproject/
+# Netbeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# PHPStorm
+.idea
+*.iml
+
+# Composer - good to have even if not using it now
+/vendor/
+composer.lock
+
+# Node.js - good to have even if not using it now
+/node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build directories
+/build/
+/dist/
+
+# Log files
+*.log
+logs/
+debug.log
+
+# Temporary files
+*.tmp
+*~
+*.swp
+*.swo
+
+# Archives (if you build zips locally but don't want to commit them)
+# *.zip
+# *.tar.gz
+# *.rar
+
+# Vendor Dashboard Specific (if any - doesn't seem to be needed now)
+# Example: /temp-data/
