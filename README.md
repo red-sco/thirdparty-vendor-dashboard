@@ -204,7 +204,7 @@ This plugin provides a solid foundation for a vendor marketplace. However, there
     `![Vendor Dashboard - Product Management Interface](assets/screenshots/Vendor%20Dashboard%20Products.png)`
 
 5.  **Vendor Dashboard - Product Editor Form**
-    `![Vendor Dashboard - Product Editor Form](assets/screenshots/PLACEHOLDER_product-editor.png)`
+    `![Vendor Dashboard - Product Editor Form](assets/screenshots/Vendor%20Dashboard%20Products.png)`
 
 6.  **Vendor Dashboard - Order Management**
     `![Vendor Dashboard - Order Management](assets/screenshots/Vendor%20Dashboard%20Orders.png)`
