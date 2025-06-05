@@ -189,19 +189,49 @@ This plugin provides a solid foundation for a vendor marketplace. However, there
 
 ## Screenshots
 
-*(Links to screenshots will be added here. You can store images in an `assets/screenshots/` directory in your repo and link them like `assets/screenshots/01-dashboard-overview.png`)*
+*(Links to screenshots are relative to the repository root. Images are located in the `assets/screenshots/` directory.)*
 
-1.  Vendor Dashboard - Overview Page (`assets/screenshots/01-dashboard-overview.png`)
-2.  Vendor Dashboard - Product Management Interface (`assets/screenshots/02-product-management.png`)
-3.  Vendor Dashboard - Product Editor Form (`assets/screenshots/03-product-editor.png`)
-4.  Vendor Dashboard - Order Management (`assets/screenshots/04-order-management.png`)
-5.  Vendor Dashboard - Coupon Editor (`assets/screenshots/05-coupon-editor.png`)
-6.  Vendor Dashboard - Earnings Report (`assets/screenshots/06-earnings-report.png`)
-7.  Vendor Dashboard - Profile Settings (`assets/screenshots/07-profile-settings.png`)
-8.  Public Vendor Store Page - Example (`assets/screenshots/08-public-store.png`)
-9.  Admin - Vendor Registrations (`assets/screenshots/09-admin-registrations.png`)
-10. Admin - Payouts Management (`assets/screenshots/10-admin-payouts.png`)
-11. Admin - Earnings Report (`assets/screenshots/11-admin-earnings-report.png`)
+1.  **Vendor Login Page**
+    `![Vendor Login Page](assets/screenshots/Vendor%20Login.png)`
+
+2.  **Vendor Registration Page**
+    `![Vendor Registration Page](assets/screenshots/Vendor%20Registration%20page.png)`
+
+3.  **Vendor Dashboard - Overview Page**
+    `![Vendor Dashboard - Overview Page](assets/screenshots/Vendor%20Overview.png)`
+
+4.  **Vendor Dashboard - Product Management Interface**
+    `![Vendor Dashboard - Product Management Interface](assets/screenshots/Vendor%20Dashboard%20Products.png)`
+
+5.  **Vendor Dashboard - Product Editor Form**
+    `![Vendor Dashboard - Product Editor Form](assets/screenshots/PLACEHOLDER_product-editor.png)`
+
+6.  **Vendor Dashboard - Order Management**
+    `![Vendor Dashboard - Order Management](assets/screenshots/Vendor%20Dashboard%20Orders.png)`
+
+7.  **Vendor Dashboard - Coupon Editor**
+    `![Vendor Dashboard - Coupon Editor](assets/screenshots/Vendor%20Dashboard%20Coupons.png)`
+
+8.  **Vendor Dashboard - Earnings Report**
+    `![Vendor Dashboard - Earnings Report](assets/screenshots/Vendor%20Dashboard%20My%20Earnings.png)`
+
+9.  **Vendor Dashboard - Profile Settings**
+    *(Listing all three profile settings images. Adjust if you prefer fewer).*
+    `![Vendor Dashboard - Profile Settings 01](assets/screenshots/Vendor%20Dashboard%20Profile%20Settings%2001.png)`
+    `![Vendor Dashboard - Profile Settings 02](assets/screenshots/Vendor%20Dashboard%20Profile%20Settings%2002.png)`
+    `![Vendor Dashboard - Profile Settings 03](assets/screenshots/Vendor%20Dashboard%20Profile%20Settings%2003.png)`
+
+10. **Public Vendor Store Page - Example**
+    `![Public Vendor Store Page - Example](assets/screenshots/Vendor%20Public%20Page.png)`
+
+11. **Admin - Vendor Registrations (Approval Page)**
+    `![Admin - Vendor Registrations](assets/screenshots/Admin%20Manual%20Registration%20Page.png)`
+
+12. **Admin - Payouts Management**
+    `![Admin - Payouts Management](assets/screenshots/Admin%20Payouts%20Management.png)`
+
+13. **Admin - Earnings Report**
+    `![Admin - Earnings Report](assets/screenshots/Admin%20Earnings%20Report.png)`
 
 ## Frequently Asked Questions (FAQ)
 
